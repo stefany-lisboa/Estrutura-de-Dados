@@ -1,0 +1,7 @@
+D:\Desktop\faculdade\C# trabalho\Trabalho10-11\Trabalho10-11\bin\Debug\Trabalho10-11.exe.config
+D:\Desktop\faculdade\C# trabalho\Trabalho10-11\Trabalho10-11\bin\Debug\Trabalho10-11.exe
+D:\Desktop\faculdade\C# trabalho\Trabalho10-11\Trabalho10-11\bin\Debug\Trabalho10-11.pdb
+D:\Desktop\faculdade\C# trabalho\Trabalho10-11\Trabalho10-11\obj\Debug\Trabalho10-11.csprojAssemblyReference.cache
+D:\Desktop\faculdade\C# trabalho\Trabalho10-11\Trabalho10-11\obj\Debug\Trabalho10-11.csproj.CoreCompileInputs.cache
+D:\Desktop\faculdade\C# trabalho\Trabalho10-11\Trabalho10-11\obj\Debug\Trabalho10-11.exe
+D:\Desktop\faculdade\C# trabalho\Trabalho10-11\Trabalho10-11\obj\Debug\Trabalho10-11.pdb

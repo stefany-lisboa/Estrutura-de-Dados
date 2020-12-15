@@ -1,0 +1,7 @@
+C:\Users\dougd\source\repos\TrabED08-12c\TrabED08-12c\bin\Debug\TrabED08-12c.exe.config
+C:\Users\dougd\source\repos\TrabED08-12c\TrabED08-12c\bin\Debug\TrabED08-12c.exe
+C:\Users\dougd\source\repos\TrabED08-12c\TrabED08-12c\bin\Debug\TrabED08-12c.pdb
+C:\Users\dougd\source\repos\TrabED08-12c\TrabED08-12c\obj\Debug\TrabED08-12c.csprojAssemblyReference.cache
+C:\Users\dougd\source\repos\TrabED08-12c\TrabED08-12c\obj\Debug\TrabED08-12c.csproj.CoreCompileInputs.cache
+C:\Users\dougd\source\repos\TrabED08-12c\TrabED08-12c\obj\Debug\TrabED08-12c.exe
+C:\Users\dougd\source\repos\TrabED08-12c\TrabED08-12c\obj\Debug\TrabED08-12c.pdb
