@@ -1,0 +1,10 @@
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\bin\Debug\projetoAtendimento.exe.config
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\bin\Debug\projetoAtendimento.exe
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\bin\Debug\projetoAtendimento.pdb
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.csprojAssemblyReference.cache
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.Form1.resources
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.Properties.Resources.resources
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.csproj.GenerateResource.cache
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.exe
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.pdb
