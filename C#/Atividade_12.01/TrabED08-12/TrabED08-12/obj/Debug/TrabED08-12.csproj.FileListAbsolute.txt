@@ -1,0 +1,10 @@
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\bin\Debug\TrabED08-12.exe.config
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\bin\Debug\TrabED08-12.exe
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\bin\Debug\TrabED08-12.pdb
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.csprojAssemblyReference.cache
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08_12.Form1.resources
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08_12.Properties.Resources.resources
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.csproj.GenerateResource.cache
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.csproj.CoreCompileInputs.cache
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.exe
+C:\Users\dougd\source\repos\TrabED08-12\TrabED08-12\obj\Debug\TrabED08-12.pdb
