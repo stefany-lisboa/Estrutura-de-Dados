@@ -1,0 +1,7 @@
+C:\Users\dougd\source\repos\ControleAcesso\ControleAcesso\bin\Debug\ControleAcesso.exe.config
+C:\Users\dougd\source\repos\ControleAcesso\ControleAcesso\bin\Debug\ControleAcesso.exe
+C:\Users\dougd\source\repos\ControleAcesso\ControleAcesso\bin\Debug\ControleAcesso.pdb
+C:\Users\dougd\source\repos\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.csprojAssemblyReference.cache
+C:\Users\dougd\source\repos\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.csproj.CoreCompileInputs.cache
+C:\Users\dougd\source\repos\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.exe
+C:\Users\dougd\source\repos\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.pdb
